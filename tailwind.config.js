@@ -17,6 +17,7 @@ module.exports = {
     colors: {
       "text-color": "#777",
       "border-color": "#f0f0f0",
+      "bg-color": "#f9f9f9",
       white: "#fff",
       black: "#000",
       sky: {
