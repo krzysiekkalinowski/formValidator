@@ -18,6 +18,10 @@ module.exports = {
       "text-color": "#777",
       "border-color": "#f0f0f0",
       "bg-color": "#f9f9f9",
+      "success-color": "#2ecc71",
+      "success-background": "rgba(45, 205, 115, 0.4)",
+      "error-color": "#e74c3c",
+      "error-background": "rgba(230, 75, 60, 0.4)",
       white: "#fff",
       black: "#000",
       sky: {

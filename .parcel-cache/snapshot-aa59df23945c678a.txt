@@ -1,10 +1,17 @@
-8045
+8047
+59C:\dev\formValidator\node_modules\cross-spawn\lib\enoent.js133572273967713645 0
+66C:\dev\formValidator\node_modules\electron-to-chromium\versions.js133572231904257780 0
+53C:\dev\formValidator\node_modules\braces\lib\utils.js133572231904798587 0
+73C:\dev\formValidator\node_modules\caniuse-lite\data\features\clipboard.js133572231910350526 0
+59C:\dev\formValidator\node_modules\posthtml-render\readme.md133572231903706291 0
+57C:\dev\formValidator\node_modules\tailwindcss\plugin.d.ts133572273973263775 0
+59C:\dev\formValidator\node_modules\@parcel\types\build-ts.js133572231902377948 0
+82C:\dev\formValidator\node_modules\yaml\browser\dist\stringify\stringifyDocument.js133572273971606128 0
+36C:\dev\formValidator\dist\index.html133574101927327198 0
+75C:\dev\formValidator\node_modules\minimatch\dist\esm\brace-expressions.d.ts133572273970616652 0
 52C:\dev\formValidator\node_modules\read-cache\LICENSE133572273967967949 0
 81C:\dev\formValidator\node_modules\@jridgewell\trace-mapping\dist\types\types.d.ts133572273969716217 0
 33C:\dev\formValidator\package.json133572275457405302 0
-55C:\dev\formValidator\node_modules\ordered-binary\assets133572231905145972 1
-46C:\dev\formValidator\node_modules\svgo\LICENSE133572231901927226 0
-44C:\dev\formValidator\node_modules\domhandler133572231904101112 1
 31C:\dev\formValidator\.postcssrc133572276705265498 0
 70C:\dev\formValidator\node_modules\@parcel\source-map\dist\wasm.js.flow133572231904101112 0
 57C:\dev\formValidator\node_modules\glob\dist\esm\bin.d.mts133572273970706464 0
@@ -37,7 +44,7 @@
 61C:\dev\formValidator\node_modules\css-tree\lib\utils\clone.js133572231911166924 0
 80C:\dev\formValidator\node_modules\@babel\highlight\node_modules\has-flag\license133572231902798911 0
 53C:\dev\formValidator\node_modules\path-parse\index.js133572273967713645 0
-25C:\dev\formValidator\dist133573266700636315 1
+25C:\dev\formValidator\dist133574101927337164 1
 68C:\dev\formValidator\node_modules\@parcel\core\src\InternalConfig.js133572231909706885 0
 42C:\dev\formValidator\node_modules\css-tree133572231912690159 1
 33C:\dev\formValidator\node_modules133572273973494032 1
@@ -71,14 +78,14 @@
 65C:\dev\formValidator\node_modules\@swc\helpers\cjs\_ts_values.cjs133572231909506473 0
 72C:\dev\formValidator\node_modules\yaml\dist\stringify\stringifyString.js133572273971655994 0
 68C:\dev\formValidator\node_modules\@babel\helper-validator-identifier133572231904687934 1
-39C:\dev\formValidator\tailwind.config.js133573265246550572 0
+39C:\dev\formValidator\tailwind.config.js133574097320453400 0
 71C:\dev\formValidator\node_modules\@swc\helpers\_\_ts_param\package.json133572231913031865 0
 54C:\dev\formValidator\node_modules\nullthrows\README.md133572231903786812 0
 55C:\dev\formValidator\node_modules\svgo\lib\svgo-node.js133572231906396007 0
 94C:\dev\formValidator\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure133572231908099027 1
 96C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\String.js133572231907899275 0
 65C:\dev\formValidator\node_modules\signal-exit\dist\cjs\signals.js133572273968643797 0
-34C:\dev\formValidator\src\index.css133572276123680202 0
+34C:\dev\formValidator\src\index.css133574101835083291 0
 68C:\dev\formValidator\node_modules\@parcel\core\lib\Transformation.js133572231911409159 0
 65C:\dev\formValidator\node_modules\@parcel\utils\src\collection.js133572231904667976 0
 65C:\dev\formValidator\node_modules\caniuse-lite\data\regions\PR.js133572231915700429 0
@@ -88,7 +95,7 @@
 68C:\dev\formValidator\node_modules\tailwindcss\src\util\colorNames.js133572273970432619 0
 46C:\dev\formValidator\node_modules\browserslist133572231904798587 1
 63C:\dev\formValidator\node_modules\ordered-binary\dist\index.cjs133572231902393017 0
-35C:\dev\formValidator\src\index.html133573266714255240 0
+35C:\dev\formValidator\src\index.html133574103253733539 0
 65C:\dev\formValidator\node_modules\lmdb\util\set-optional-deps.cjs133572231909506473 0
 70C:\dev\formValidator\node_modules\@swc\helpers\esm\_to_property_key.js133572231911409159 0
 59C:\dev\formValidator\node_modules\css-select\lib\index.d.ts133572231909374437 0
@@ -341,6 +348,9 @@
 108C:\dev\formValidator\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeStyleElement.js133572231908495826 0
 51C:\dev\formValidator\node_modules\@swc\core\LICENSE133572231901967120 0
 59C:\dev\formValidator\node_modules\resolve\test\mock_sync.js133572273970863799 0
+55C:\dev\formValidator\node_modules\ordered-binary\assets133572231905145972 1
+46C:\dev\formValidator\node_modules\svgo\LICENSE133572231901927226 0
+44C:\dev\formValidator\node_modules\domhandler133572231904101112 1
 74C:\dev\formValidator\node_modules\csso\node_modules\css-tree\lib\convertor133572231911647654 1
 53C:\dev\formValidator\node_modules\tailwindcss\scripts133572273973003818 1
 55C:\dev\formValidator\node_modules\postcss\lib\list.d.ts133572273970432619 0
@@ -1622,14 +1632,6 @@
 72C:\dev\formValidator\node_modules\caniuse-lite\data\features\svg-html.js133572231916508465 0
 87C:\dev\formValidator\node_modules\sucrase\dist\esm\util\getImportExportSpecifierInfo.js133572273970266220 0
 81C:\dev\formValidator\node_modules\yaml\browser\dist\stringify\stringifyComment.js133572273971586183 0
-59C:\dev\formValidator\node_modules\cross-spawn\lib\enoent.js133572273967713645 0
-66C:\dev\formValidator\node_modules\electron-to-chromium\versions.js133572231904257780 0
-53C:\dev\formValidator\node_modules\braces\lib\utils.js133572231904798587 0
-73C:\dev\formValidator\node_modules\caniuse-lite\data\features\clipboard.js133572231910350526 0
-59C:\dev\formValidator\node_modules\posthtml-render\readme.md133572231903706291 0
-57C:\dev\formValidator\node_modules\tailwindcss\plugin.d.ts133572273973263775 0
-59C:\dev\formValidator\node_modules\@parcel\types\build-ts.js133572231902377948 0
-82C:\dev\formValidator\node_modules\yaml\browser\dist\stringify\stringifyDocument.js133572273971606128 0
 62C:\dev\formValidator\node_modules\source-map\lib\base64-vlq.js133572231903970231 0
 90C:\dev\formValidator\node_modules\string-width-cjs\node_modules\emoji-regex\es2015\text.js133572273968765937 0
 80C:\dev\formValidator\node_modules\yaml\browser\dist\stringify\stringifyNumber.js133572273971636051 0
@@ -1813,15 +1815,15 @@
 84C:\dev\formValidator\node_modules\wrap-ansi-cjs\node_modules\string-width\index.d.ts133572273968467430 0
 86C:\dev\formValidator\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Value.cjs133572231910604497 0
 81C:\dev\formValidator\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\index.js133572273967967949 0
+73C:\dev\formValidator\node_modules\tailwindcss\lib\util\parseDependency.js133572273972384472 0
 59C:\dev\formValidator\node_modules\@swc\types\index.d.ts.map133572231903752866 0
 84C:\dev\formValidator\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133572231907000458 0
 74C:\dev\formValidator\node_modules\path-scurry\dist\commonjs\index.d.ts.map133572273969133810 0
 90C:\dev\formValidator\node_modules\resolve\test\resolver\nested_symlinks\mylib\package.json133572273971243764 0
-88C:\dev\formValidator\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\LICENSE-MIT.txt133572273968255713 0
 75C:\dev\formValidator\node_modules\supports-preserve-symlinks-flag\.eslintrc133572273967537245 0
+88C:\dev\formValidator\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\LICENSE-MIT.txt133572273968255713 0
 47C:\dev\formValidator\node_modules\isexe\LICENSE133572273968165940 0
 53C:\dev\formValidator\node_modules\lmdb\dict\dict2.txt133572231911249733 0
-73C:\dev\formValidator\node_modules\tailwindcss\lib\util\parseDependency.js133572273972384472 0
 85C:\dev\formValidator\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\package.json133572273967557180 0
 63C:\dev\formValidator\node_modules\@parcel\workers\src\Handle.js133572231906136465 0
 54C:\dev\formValidator\node_modules\callsites\index.d.ts133572231902338039 0
@@ -2067,6 +2069,7 @@
 65C:\dev\formValidator\node_modules\caniuse-lite\data\regions\EE.js133572231912856728 0
 59C:\dev\formValidator\node_modules\tslib\CopyrightNotice.txt133572231905255709 0
 56C:\dev\formValidator\node_modules\css-tree\cjs\tokenizer133572231910779200 1
+56C:\dev\formValidator\dist\index.61d3354a.css.map.8960.2t133574100324782455 0
 68C:\dev\formValidator\node_modules\minimatch\dist\commonjs\index.d.ts133572273970666564 0
 50C:\dev\formValidator\node_modules\get-port\license133572231903097353 0
 56C:\dev\formValidator\node_modules\picomatch\lib\parse.js133572231903368970 0
@@ -3775,7 +3778,6 @@
 100C:\dev\formValidator\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.json133572231906505514 0
 70C:\dev\formValidator\node_modules\@swc\helpers\_\_type_of\package.json133572231913103196 0
 90C:\dev\formValidator\node_modules\path-scurry\node_modules\lru-cache\dist\esm\index.js.map133572273969412582 0
-83C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js133572231902599059 0
 88C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer133572231910749286 1
 91C:\dev\formValidator\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\index.js133572273968073534 0
 65C:\dev\formValidator\node_modules\@swc\helpers\_\_read_only_error133572231912700137 1
@@ -3811,7 +3813,7 @@
 48C:\dev\formValidator\node_modules\parcel\LICENSE133572231901994966 0
 61C:\dev\formValidator\node_modules\css-select\lib\index.js.map133572231908310119 0
 54C:\dev\formValidator\node_modules\ordered-binary\.idea133572231905405601 1
-43C:\dev\formValidator\dist\index.b8fca702.js133573265380797540 0
+43C:\dev\formValidator\dist\index.b8fca702.js133574101836249698 0
 56C:\dev\formValidator\node_modules\ordered-binary\LICENSE133572231901896959 0
 106C:\dev\formValidator\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDimensions.js133572231907899275 0
 61C:\dev\formValidator\node_modules\ordered-binary\package.json133572231904798587 0
@@ -4100,8 +4102,6 @@
 65C:\dev\formValidator\node_modules\minimatch\dist\esm\ast.d.ts.map133572273969756102 0
 59C:\dev\formValidator\node_modules\minimatch\dist\esm\ast.js133572273968726077 0
 63C:\dev\formValidator\node_modules\minimatch\dist\esm\ast.js.map133572273969965154 0
-36C:\dev\formValidator\dist\index.html133573266700576462 0
-75C:\dev\formValidator\node_modules\minimatch\dist\esm\brace-expressions.d.ts133572273970616652 0
 68C:\dev\formValidator\node_modules\minimatch\dist\esm\escape.d.ts.map133572273970156514 0
 62C:\dev\formValidator\node_modules\minimatch\dist\esm\escape.js133572273969113861 0
 59C:\dev\formValidator\node_modules\dotenv\lib\cli-options.js133572231903930343 0
@@ -5280,7 +5280,7 @@
 71C:\dev\formValidator\node_modules\caniuse-lite\data\features\fileapi.js133572231913247918 0
 85C:\dev\formValidator\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Rule.cjs133572231910127119 0
 60C:\dev\formValidator\node_modules\css-what\lib\es\index.d.ts133572231906246226 0
-48C:\dev\formValidator\dist\index.61d3354a.css.map133573266700626337 0
+48C:\dev\formValidator\dist\index.61d3354a.css.map133574101836279628 0
 87C:\dev\formValidator\node_modules\csso\node_modules\css-tree\cjs\syntax\node\String.cjs133572231910310639 0
 91C:\dev\formValidator\node_modules\csso\node_modules\css-tree\cjs\syntax\node\StyleSheet.cjs133572231910387536 0
 65C:\dev\formValidator\node_modules\caniuse-lite\data\regions\FK.js133572231913291197 0
@@ -5545,7 +5545,7 @@
 69C:\dev\formValidator\node_modules\caniuse-lite\data\regions\alt-af.js133572231905745908 0
 110C:\dev\formValidator\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-html.d.ts.map133572231906738911 0
 66C:\dev\formValidator\node_modules\css-tree\cjs\tokenizer\utils.cjs133572231910789180 0
-47C:\dev\formValidator\dist\index.b8fca702.js.map133573265380827465 0
+47C:\dev\formValidator\dist\index.b8fca702.js.map133574101836279628 0
 60C:\dev\formValidator\node_modules\css-tree\cjs\syntax\atrule133572231910505963 1
 68C:\dev\formValidator\node_modules\@parcel\events\lib\ValueEmitter.js133572231904798587 0
 63C:\dev\formValidator\node_modules\@swc\helpers\_\_object_spread133572231912700137 1
@@ -5683,6 +5683,7 @@
 84C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\querying.d.ts133572231908698748 0
 86C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\querying.js.map133572231907728293 0
 85C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\stringify.d.ts133572231908768568 0
+83C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js133572231902599059 0
 85C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js133572231903394016 0
 89C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts.map133572231906798740 0
 87C:\dev\formValidator\node_modules\css-select\node_modules\domutils\lib\esm\index.js.map133572231906986719 0
@@ -7566,7 +7567,7 @@
 94C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.d.ts133572231907399377 0
 99C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts.map133572231906708980 0
 114C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133572231907000458 0
-44C:\dev\formValidator\dist\index.61d3354a.css133573266700596419 0
+44C:\dev\formValidator\dist\index.61d3354a.css133574101836249698 0
 118C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133572231905891430 0
 112C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.d.ts133572231907239716 0
 116C:\dev\formValidator\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133572231906246226 0
@@ -8044,3 +8045,4 @@
 56C:\dev\formValidator\dist\index.61d3354a.css.map.12788.g133572306449484248 0
 56C:\dev\formValidator\dist\index.61d3354a.css.map.16632.k133572328411435104 0
 57C:\dev\formValidator\dist\index.61d3354a.css.map.18668.16133572320751020501 0
+55C:\dev\formValidator\dist\index.61d3354a.css.map.7968.y133574100734593920 0

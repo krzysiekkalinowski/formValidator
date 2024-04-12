@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .success {
+    border-color: theme("colors.success-color");
+    background-color: theme("colors.success-background");
+  }
+  .error {
+    border-color: theme("colors.error-color");
+    background-color: theme("colors.error-background");
+  }
+}
