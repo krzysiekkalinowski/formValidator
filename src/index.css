@@ -11,4 +11,6 @@
     border-color: theme("colors.error-color");
     background-color: theme("colors.error-background");
   }
+  .hidden {
+  }
 }
