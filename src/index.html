@@ -27,7 +27,7 @@
           Register with us
         </h2>
         <div class="flex flex-col gap-y-8">
-          <p class="flex flex-col gap-y-2">
+          <p class="flex flex-col gap-y-2 formControl--js">
             <label for="username">Username</label>
             <input
               type="text"
@@ -35,9 +35,9 @@
               placeholder="Enter username"
               class="p-2.5 rounded-sm border-2 border-border-color focus:border-text-color text-sm"
             />
-            <small>Error</small>
+            <small class="hidden text-error-color">Error</small>
           </p>
-          <p class="flex flex-col gap-y-2">
+          <p class="flex flex-col gap-y-2 formControl--js">
             <label for="email">Email</label>
             <input
               type="text"
@@ -45,9 +45,9 @@
               placeholder="Enter email"
               class="p-2.5 rounded-sm border-2 border-border-color focus:border-text-color text-sm"
             />
-            <small>Error</small>
+            <small class="hidden text-error-color">Error</small>
           </p>
-          <p class="flex flex-col gap-y-2">
+          <p class="flex flex-col gap-y-2 formControl--js">
             <label for="password">Password</label>
             <input
               type="password"
@@ -55,9 +55,9 @@
               placeholder="Enter password"
               class="p-2.5 rounded-sm border-2 border-border-color focus:border-text-color text-sm"
             />
-            <small>Error</small>
+            <small class="hidden text-error-color">Error</small>
           </p>
-          <p class="flex flex-col gap-y-2">
+          <p class="flex flex-col gap-y-2 formControl--js">
             <label for="cofirm-password">Confirm password</label>
             <input
               type="password"
@@ -65,7 +65,7 @@
               placeholder="Enter password again"
               class="p-2.5 rounded-sm border-2 border-border-color focus:border-text-color text-sm"
             />
-            <small>Error</small>
+            <small class="hidden text-error-color">Error</small>
           </p>
           <button class="p-2.5 rounded-sm text-white bg-sky-500">Submit</button>
         </div>

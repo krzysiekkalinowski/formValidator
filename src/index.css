@@ -3,14 +3,19 @@
 @tailwind utilities;
 
 @layer utilities {
-  .success {
+  .success input {
     border-color: theme("colors.success-color");
     background-color: theme("colors.success-background");
   }
-  .error {
+  .error input {
     border-color: theme("colors.error-color");
     background-color: theme("colors.error-background");
   }
   .hidden {
+    visibility: hidden;
+  }
+  .error .hidden {
+    visibility: visible;
+    display: block;
   }
 }
