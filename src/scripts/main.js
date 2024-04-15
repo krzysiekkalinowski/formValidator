@@ -18,6 +18,13 @@ const showSuccess = (input) => {
   formControl.className = "flex flex-col gap-y-2 formControl--js success";
 };
 
+//Check email valid
+const checkEmailValid = (email) => {
+  const reg =
+    /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|.(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return reg.test(String(email).toLowerCase());
+};
+
 //Event listeners
 form.addEventListener("submit", function (e) {
   e.preventDefault();
@@ -30,12 +37,25 @@ form.addEventListener("submit", function (e) {
 
   if (email.value === "") {
     showError(email, "Email is required");
-  } else if (
-    !String(email.value).toLowerCase ===
-    "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,}$"
-  ) {
+  } else if (!checkEmailValid(email.value)) {
     showError(email, "Email is not valid");
   } else {
     showSuccess(email);
+  }
+
+  if (password.value === "") {
+    showError(password, "Password is required");
+  } else if (password.value !== password2.value) {
+    showError(password, "Both passwords must be the same");
+  } else {
+    showSuccess(password);
+  }
+
+  if (password2.value === "") {
+    showError(password2, "Password confirm is required");
+  } else if (password2.value !== password.value) {
+    showError(password2, "Both passwords must be the same");
+  } else {
+    showSuccess(password2);
   }
 });
